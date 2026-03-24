@@ -23,7 +23,7 @@ Dependendo da versão do projeto, o conjunto pode incluir atributos como:
 - número de membros da família
 - quantidade de benefícios recebidos
 
-Arquivo utilizado no projeto:
+O arquivo utilizado no projeto está organizado na pasta `datasets/`:
 
 - `insurance_us.csv`
 
@@ -67,8 +67,9 @@ sure-tomorrow-insurance-analysis/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-├── sure-tomorrow-insurance-analysis.ipynb
-└── insurance_us.csv
+├── sure_tomorrow_insurance_analysis.ipynb
+└── datasets/
+    └── insurance_us.csv
 ````
 
 ## Como executar
