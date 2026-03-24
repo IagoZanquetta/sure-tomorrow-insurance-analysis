@@ -67,7 +67,7 @@ sure-tomorrow-insurance-analysis/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-├── sure_tomorrow_insurance_analysis.ipynb
+├── sure-tomorrow-insurance-analysis.ipynb
 └── insurance_us.csv
 ````
 
@@ -91,7 +91,7 @@ sure-tomorrow-insurance-analysis/
    pip install -r requirements.txt
    ```
 
-4. Abra o arquivo `sure_tomorrow_insurance_analysis.ipynb` no Jupyter Notebook, JupyterLab ou VS Code.
+4. Abra o arquivo `sure-tomorrow-insurance-analysis.ipynb` no Jupyter Notebook, JupyterLab ou VS Code.
 
 5. Execute as células em ordem.
 
