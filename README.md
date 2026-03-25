@@ -27,6 +27,10 @@ O arquivo utilizado no projeto está organizado na pasta `datasets/`:
 
 - `insurance_us.csv`
 
+## Objetivo do Projeto
+
+Aplicar técnicas de análise de dados, machine learning e álgebra linear para resolver problemas de negócio da Proteja Seu Amanhã, incluindo busca de clientes semelhantes, previsão de benefícios e proteção de dados sensíveis.
+
 ## Objetivos da Análise
 
 Este projeto busca responder perguntas como:
@@ -109,6 +113,8 @@ Entre os principais focos do projeto, estão:
 
 ## Resultados
 
+Demonstração da possibilidade de utilizar dados da seguradora para apoiar tarefas de similaridade, classificação e regressão, além de avaliar técnicas de mascaramento de dados sem comprometimento da utilidade analítica das informações. Geração de uma abordagem prática para criação de valor de negócio com preservação da privacidade dos dados.
+
 O notebook inclui:
 
 * análise inicial dos dados
@@ -122,6 +128,23 @@ O notebook inclui:
 ## Conclusão
 
 Este projeto demonstra como técnicas de machine learning e álgebra linear podem ser combinadas para resolver problemas de negócio no setor de seguros. Além de apoiar tarefas como classificação, regressão e análise de similaridade, o projeto mostra que é possível proteger dados sensíveis por meio de transformação matemática sem necessariamente comprometer o valor analítico das informações.
+
+## O que foi aprendido
+
+Desenvolvimento e consolidação de habilidades em:
+- análise de similaridade entre clientes
+- aplicação de classificação e regressão
+- uso de métricas adequadas para diferentes tarefas
+- manipulação de dados com foco em privacidade
+- aplicação prática de conceitos de álgebra linear em ciência de dados
+
+## Melhorias Futuras
+
+Possibilidades de evolução do projeto:
+- testar outros métodos de busca por vizinhos
+- comparar modelos adicionais de classificação e regressão
+- aprofundar a avaliação do mascaramento de dados
+- incluir validação mais ampla da robustez dos modelos
 
 ## Autor
 
